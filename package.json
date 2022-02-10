@@ -1,0 +1,16 @@
+{
+  "name": "typescript-declaration-files-example",
+  "version": "1.0.0",
+  "description": "Examples of common simple operations on TypeScript definition files",
+  "main": "index.js",
+  "repository": "git@github.com:tymzap/typescript-declaration-files-example.git",
+  "author": "Tymek Zapała <tymzap@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "17.0.16",
+    "ts-node": "10.5.0",
+    "tsconfig-paths": "3.12.0",
+    "typescript": "4.5.5"
+  }
+}
