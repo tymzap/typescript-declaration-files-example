@@ -2,7 +2,7 @@
   "name": "typescript-declaration-files-example",
   "version": "1.0.0",
   "description": "Examples of common simple operations on TypeScript definition files",
-  "main": "index.js",
+  "main": "test/index.ts",
   "repository": "git@github.com:tymzap/typescript-declaration-files-example.git",
   "author": "Tymek Zapała <tymzap@gmail.com>",
   "license": "MIT",
