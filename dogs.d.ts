@@ -1,3 +1,6 @@
+// declare keyword lets TypeScript compiler know that this module
+// contains some JavaScript variable declarations
+
 declare enum BREED {
   BULLDOG = 'bulldog',
   POMERANIAN = 'pomeranian',
