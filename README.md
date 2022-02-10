@@ -6,3 +6,4 @@ This repository contains examples of common simple operations on TypeScript defi
 - `test/dogs.ts`: define types for untyped `.js` and `.json` project files
 - `test/environment.ts`: customize project environment types (for example add strongly typed environment variables)
 - `test/axios.ts`: extend external library types
+- `test/i18n-js.ts`: override external library types
