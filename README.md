@@ -5,3 +5,4 @@ This repository contains examples of common simple operations on TypeScript defi
 - `test/is-dark-color.ts`: define missing types for external library
 - `test/dogs.ts`: define types for untyped `.js` and `.json` project files
 - `test/environment.ts`: customize project environment types (for example add strongly typed environment variables)
+- `test/axios.ts`: extend external library types
