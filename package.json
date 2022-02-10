@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "is-dark-color": "1.2.0",
-    "lodash": "4.17.21"
+    "lodash": "4.17.21",
+    "yup": "0.32.11"
   }
 }
