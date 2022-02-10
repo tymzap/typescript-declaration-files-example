@@ -1,0 +1,5 @@
+# typescript-declaration-files-example
+This repository contains examples of common simple operations on TypeScript definition files (`.d.ts`). Feel free to use it as small cheatsheet or source of inspiration for your projects.
+
+## Examples list
+- `test/is-dark-color.ts`: define missing types for external library

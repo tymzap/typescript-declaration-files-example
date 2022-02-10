@@ -74,6 +74,11 @@ diff@^4.0.1:
   resolved "https://registry.yarnpkg.com/diff/-/diff-4.0.2.tgz#60f3aecb89d5fae520c11aa19efc2bb982aade7d"
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
+is-dark-color@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/is-dark-color/-/is-dark-color-1.2.0.tgz#60dea9b56cfd6e3a286fcf59e3ab78fd60a2c77d"
+  integrity sha512-07rMiXL60NRntHOMLp5A/2hVw+JGyQco7YS8mkg4y3FP0mTl68fm7/xVLuVR/8minoEQJKVqQ+xSgBlclaN5qA==
+
 json5@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/json5/-/json5-1.0.1.tgz#779fb0018604fa854eacbf6252180d83543e3dbe"
