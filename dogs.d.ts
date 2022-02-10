@@ -1,0 +1,21 @@
+declare enum BREED {
+  BULLDOG = 'bulldog',
+  POMERANIAN = 'pomeranian',
+  GOLDEN_RETRIEVER = 'goldenRetriever',
+  SIBERIAN_HUSKY = 'siberianHusky',
+  GREAT_DANE = 'greatDane'
+}
+
+type Dog = {
+  name: string;
+  breed: `${BREED}`;
+};
+
+declare const getRandomDog: () => Dog;
+
+export {
+  Dog,
+  dogs,
+  getRandomDog,
+  BREED
+}
