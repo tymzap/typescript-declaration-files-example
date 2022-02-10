@@ -18,7 +18,6 @@ declare const getRandomDog: () => Dog;
 
 export {
   Dog,
-  dogs,
   getRandomDog,
   BREED
 }
